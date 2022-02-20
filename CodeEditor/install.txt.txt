@@ -1,0 +1,4 @@
+pillow
+os
+tkinter
+subprocess
